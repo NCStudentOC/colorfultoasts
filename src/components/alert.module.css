@@ -1,0 +1,18 @@
+css
+/* message.css */
+
+.successmessage {
+  border: 2px solid green;
+  border-radius: 5px;
+  background-color: lightgreen;
+  color: #333;
+  padding: 10px;
+}
+
+.errormessage {
+  border: 2px solid red;
+  border-radius: 5px;
+  background-color: lightcoral;
+  color: #8d1919;
+  padding: 10px;
+}
